@@ -1,3 +1,7 @@
+'''
+Función principal: Validador de contraseñas.
+'''
+
 def validar_contrasena(contrasena):
     """
     Valida la fortaleza de una contraseña según los siguientes criterios:
